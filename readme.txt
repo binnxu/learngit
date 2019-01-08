@@ -10,3 +10,5 @@ Creating a new branch feature1 is easy. -master
 branch dev
 
 test stash
+
+user 1 - branch dev
