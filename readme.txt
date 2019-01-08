@@ -5,4 +5,4 @@ Git tracks changes of files.
 
 I love Git!
 
-Creating a new branch is easy.
+Creating a new branch feature1.
