@@ -9,3 +9,5 @@ Creating a new branch feature1 is easy. -master
 
 branch dev
 branch dev2
+
+branch issue-101
