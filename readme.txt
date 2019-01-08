@@ -6,3 +6,5 @@ Git tracks changes of files.
 I love Git!
 
 Creating a new branch feature1 is easy. -master
+
+branch dev
