@@ -8,7 +8,11 @@ I love Git!
 Creating a new branch feature1 is easy. -master
 
 branch dev
+branch dev2
+
+branch issue-101
 
 test stash
 
 user 1 - branch dev
+user 2 - dev branch
